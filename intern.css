@@ -1,0 +1,36 @@
+.bg-container{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQStue_nLxJmpQ112qotEWsVp7BrmvpnuCCXbxF4x2X3sEaPDukDy4jf8W9H0q4i3SLSST3Jyphl8I&usqp=CAU&ec=48665698");
+    background-size: cover;
+    height: 100vh;
+ }
+ 
+ .kelvin-container{
+    font-size: 35px;
+    color: black;
+}
+
+
+.Fahrenheit-container{
+    font-size: 35px;
+    color:black;
+}
+
+.celcius-container{
+    font-size: 35px;
+    color:black;
+}
+
+.input-temp{
+border-radius: 20px;
+height: 60px;
+width: 250px;
+background-color: rgb(238, 243, 243);
+}
+
+.main-head{
+    color: black;
+    text-align: center;
+    background-color: white;
+    font-family: sans-serif;
+
+}
